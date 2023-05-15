@@ -1,0 +1,18 @@
+{
+  "timeZone": "Europe/Kyiv",
+  "dependencies": {
+    "libraries": [{
+      "userSymbol": "FuelFinanceLibrary1",
+      "libraryId": "1XgUeeSzmKN7cKfRy_IXQQ_EmqyS1d9lVoNaq7uKXZJK4WNX8Bl_v0JoJ",
+      "version": "14"
+    }]
+  },
+  "exceptionLogging": "STACKDRIVER",
+  "runtimeVersion": "V8",
+  "sheets": {
+    "macros": [{
+      "menuName": "Untitled Macro",
+      "functionName": "UntitledMacro"
+    }]
+  }
+}
